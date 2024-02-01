@@ -1,5 +1,4 @@
-import even from '../scr/even.js';
+#! /usr/bin/env node
+import runEven from '../scr/games/even.js';
 
-console.log('Welcome to the Brain Games!');
-
-even();
+runEven();

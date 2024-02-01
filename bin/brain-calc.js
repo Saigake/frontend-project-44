@@ -1,5 +1,3 @@
-import calc from '../scr/calc.js';
+import runCalc from '../scr/games/calc.js';
 
-console.log('Welcome to the Brain Games!');
-
-calc();
+runCalc();
