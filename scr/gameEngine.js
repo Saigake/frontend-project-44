@@ -21,7 +21,7 @@ export default (rule, getQuestionAndAnswer) => {
 
     if (correctAnswer !== userAnswer) {
       console.log(`"${userAnswer}" is a wrong answer. Correct answer was "${correctAnswer}"`);
-      console.log(`Let's try again, ${nameUser}`);
+      console.log(`Let's try again, ${nameUser}!`);
       return;
     }
     console.log('Correct!');
