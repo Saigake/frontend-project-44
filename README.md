@@ -15,3 +15,6 @@ Asciinema for running brain-gcd game:
 
 Asciinema for running brain-progression game: 
 [![asciicast](https://asciinema.org/a/636383.svg)](https://asciinema.org/a/636383)
+
+Asciinema for running brain-prime game:
+[![asciicast](https://asciinema.org/a/636546.svg)](https://asciinema.org/a/636546)
